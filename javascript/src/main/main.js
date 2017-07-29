@@ -1,5 +1,5 @@
 'use strict';
 
-function fizbuzzwhizz(a, b, c){
+function guessNumber(num1, num2){
   // write your code here...
 }
